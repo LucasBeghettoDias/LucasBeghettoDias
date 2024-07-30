@@ -1,8 +1,8 @@
 ## Olá! Eu sou o LucasBDias muito prazer<br/> Agradeço por ver o perfil 🫡<br/>
 
-Estudando TI e melhorando a cada dia<br>
+Estudante do colégio Sesi, e dedicado a melhorar a cada dia.<br>
 
-## Tecnologias que eu uso no meu dia OBS:Vou aprender mais linguagens
+## Linguagens já aprendidas  OBS:irei aprender mais linguagens ao decorrer do aprendizado
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
