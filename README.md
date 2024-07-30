@@ -10,6 +10,6 @@ Estudando TI e melhorando a cada dia<br>
   
 </div><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBDias&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBeghettoDias&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBDias&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBeghettoDias&show_icons=true&theme=radical)
